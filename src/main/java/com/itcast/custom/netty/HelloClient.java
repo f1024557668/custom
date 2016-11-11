@@ -1,4 +1,4 @@
-package com.itcast.custom.test;
+package com.itcast.custom.netty;
 
 import java.io.BufferedReader;
 import java.io.IOException;

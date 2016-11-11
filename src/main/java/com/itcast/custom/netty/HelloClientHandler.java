@@ -1,4 +1,4 @@
-package com.itcast.custom.test;
+package com.itcast.custom.netty;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;

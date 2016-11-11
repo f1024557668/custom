@@ -1,4 +1,4 @@
-package com.itcast.custom.test;
+package com.itcast.custom.netty;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
